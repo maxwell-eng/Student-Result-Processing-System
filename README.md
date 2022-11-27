@@ -13,7 +13,7 @@ The teacher can also view merit lists for both end of term and mid-term results 
 The student can view his/her results and print results. 
 The student can also change his/her password.
 
-Installations:
+#Installations:#
 Clone this repository and follow the instructions in the System Manual in order to use this system. 
 The password file has a list of usernames and passwords of all users that are currently added to the system.
 
